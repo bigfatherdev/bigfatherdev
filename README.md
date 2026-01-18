@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60"/>
+  <img src="https://avatars.githubusercontent.com/u/115670953?v=4" width="60"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou BigFatherDev</h1>
