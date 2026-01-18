@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou BigFatherDev</h1>
 
 <h3 align="center">
-Engenheiro de Software • Cibersegurança • Backend & Infraestrutura
+Desenvolvedor Web • Cibersegurança • Backend & Infraestrutura
 </h3>
 
 <p align="center">
